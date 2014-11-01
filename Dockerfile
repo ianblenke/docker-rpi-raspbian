@@ -1,5 +1,5 @@
 #sdhibit/rpi-raspbian
 FROM scratch
-MAINTAINER Steve Hibit <sdhibit@gmail.com>
+MAINTAINER Philpz <philipzheng@gmail.com>
 
-ADD raspbian.2014.09.09.tar.xz /
+ADD raspbian.2013.09.16.tar.xz /
